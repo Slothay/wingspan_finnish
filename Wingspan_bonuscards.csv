@@ -1,39 +1,39 @@
-Bonus card;Condition;SUOMEKSI;Explanatory text
-Anatomist;Birds with body parts in their names;Linnut, joiden nimissä on ruumiinosia;Body parts include back, beak, belly, bill, breast, cap, chin, collar, crest, crown, ear, eye, face, foot, head, leg, mouth, neck, rump, shoulder, tail, throat, toe, wattle, wing
-Backyard Birder;Birds worth less than 4 points;Linnut arvoltaan alle 4 pistettä;
-Bird Counter;Birds with a [flocking] power;Linnut, joilla on [parveileva] voima;
-Bird Feeder;Birds that eat [seed];Linnut, jotka syövät [siemeniä];Any bird with a [seed] symbol. The bird may also eat other kinds of food.
-Breeding Manager;Birds that have at least 4 eggs laid on them;Linnut, joilla on vähintään 4 munaa;
-Cartographer;Birds with geography terms in their names;Linnut, joiden nimissä on maantieteellisiä termejä;Terms include American, Atlantic, Australasian, Australian, Baltimore, California, Canada, Carolina, Chihuahua, Corsican, Eastern, Eurasian, European, Inca, Mallee, Meadow, Mississippi, Moor, Mountain, New Holland, North, Northern, Pacific, Plains, Prairie, Sandhill, Savannah, Scrub, Sea, South, Western
-Ecologist;Birds in your habitat with the fewest birds.;Linnut elinympäristössäsi vähiten lintuineen.;Ties count: If you have 3 birds in each habitat, your habitat with the fewest birds has 3 birds.
-Enclosure Builder;Birds with [ground] nests;Linnut, joilla on [maa] pesiä;Birds must have a [ground] or [star] nest symbol.
-Falconer;Birds with a [predator] power;Linnut, joilla on [petoeläin] voima;
-Fishery Manager;Birds that eat [fish];Linnut, jotka syövät [kalaa];Any bird with a [fish] symbol. The bird may also eat other kinds of food.
-Food Web Expert;Birds that eat only [invertebrate];Linnut, jotka syövät vain [ötökkä];Any bird that has only [invertebrate] and no other food symbols.
-Forester;Birds that can only live in [forest];Linnut, jotka voivat elää vain [metsässä];
-Historian;Birds named after a person;Linnut nimetty henkilön mukaan;Any bird with an 's in its name.
-Large Bird Specialist;Birds with wingspans over 65 cm;Linnut, joiden siipien kärkiväli on yli 65 cm;
-Nest Box Builder;Birds with [cavity] nests;Linnut, joilla on [kolo] pesiä;Birds must have a [cavity] or [star] nest symbol.
-Omnivore Specialist;Birds that eat [wild];Linnut, jotka syövät [valinnainen];Any bird that specifically has a [wild] symbol as part of its food cost.
-Oologist;Birds that have at least 1 egg laid on them;Linnut, joilla on vähintään yksi muna;
-Passerine Specialist;Birds with wingspans 30 cm or less;Linnut, joiden siipien kärkiväli on 30 cm tai vähemmän;
-Photographer;Birds with colors in their names;Lintuja, joiden nimissä on värejä;Colors include ash, black, blue, bronze, brown, cerulean, chestnut, coal, crimson, ferruginous, gold, gray, grey, green, indigo, lazuli, orange, pink, purple, red, rose, roseate, ruby, ruddy, rufous, silver, snowy, sulphur, tawny, violet, white, yellow
-Platform Builder;Birds with [platform] nests;Linnut, joilla on [risu] pesiä;Birds must have a [platform] or [star] nest symbol.
-Prairie Manager;Birds that can only live in [grassland];Linnut, jotka voivat elää vain [pellolla];
-Rodentologist;Birds that eat [rodent];Linnut, jotka syövät [jyrsijä];Any bird with a [rodent] symbol. The bird may also eat other kinds of food.
-Visionary Leader;Bird cards in hand at end of game;Lintukortit kädessä pelin lopussa;
-Viticulturalist;Birds that eat [fruit];Linnut, jotka syövät [hedelmiä];Any bird with a [fruit] symbol. The bird may also eat other kinds of food.
-Wetland Scientist;Birds that can only live in [wetland];Linnut, jotka voivat elää vain [kosteikolla];
-Wildlife Gardener;Birds with [bowl] nests;Linnut, joilla on [kulho] pesiä;Birds must have a [bowl] or [star] nest symbol.
-[automa] Autwitcher;Birds that are worth 3 or 4 points;Linnut, jotka ovat 3 tai 4 pisteen arvoisia;The automa keeps up to 2 of them (higher value first).
-[automa] RASPB Life Fellow;Birds that are worth 5, 6, or 7 points;Linnut, jotka saavat 5, 6 tai 7 pistettä;The automa keeps the highest valued one.
-Behaviorist;For each column that contains birds with 3 different power colors:;Jokaiselle sarakkeelle, joka sisältää lintuja kolmella eri voimavärillä:;Birds with no power count as white.
-Bird Bander;Birds that can live in multiple habitats;Linnut, jotka voivat elää useissa elinympäristöissä;
-Citizen Scientist;Birds with tucked cards;Linnut piilossa olevilla korteilla;
-Diet Specialist;Birds with a food cost of 3 food;Linnut, joiden ruokahinta on 3 ruokaa;
-Ethologist;In any one habitat:;Missä tahansa elinympäristössä:;Birds with no power count as white.
-Forest Data Analyst;Consecutive birds in [forest] with ascending or descending wingspans;Peräkkäiset linnut [metsässä] nousevilla tai laskevilla siipien kärkivälillä;
-Grassland Data Analyst;Consecutive birds in [grassland] with ascending or descending wingspans;Peräkkäiset linnut [pellolla] nousevilla tai laskevilla siipien kärkivälillä;
-Mechanical Engineer;Sets of the 4 nest types / 1 set = [bowl] [cavity] [ground] [platform];Neljän pesätyypin sarjat / 1 sarja = [kulho] [kolo] [maa] [risu];Each star nest can be treated as any 1 nest type. No card can be part of more than 1 set.
-Site Selection Expert;Columns with a matching pair or trio of nests;Sarakkeet, joissa on yhteensopiva pesäpari tai -kolmio;Different columns may (but need not) score using different nest types. Star nests are wild, but each counts only once.
-Wetland Data Analyst;Consecutive birds in [wetland] with ascending or descending wingspans;Peräkkäiset linnut [kosteikolla] nousevalla tai laskevalla siipien kärkivälillä;
+Bonus card;Condition;SUOMEKSI
+Anatomist;Birds with body parts in their names;Linnut, joiden nimissä on ruumiinosia
+Backyard Birder;Birds worth less than 4 points;Linnut arvoltaan alle 4 pistettä
+Bird Counter;Birds with a [flocking] power;Linnut, joilla on [parveileva] voima
+Bird Feeder;Birds that eat [seed];Linnut, jotka syövät [siemeniä]
+Breeding Manager;Birds that have at least 4 eggs laid on them;Linnut, joilla on vähintään 4 munaa
+Cartographer;Birds with geography terms in their names;Linnut, joiden nimissä on maantieteellisiä termejä
+Ecologist;Birds in your habitat with the fewest birds.;Linnut elinympäristössäsi vähiten lintuineen.
+Enclosure Builder;Birds with [ground] nests;Linnut, joilla on [maa] pesiä
+Falconer;Birds with a [predator] power;Linnut, joilla on [petoeläin] voima
+Fishery Manager;Birds that eat [fish];Linnut, jotka syövät [kalaa]
+Food Web Expert;Birds that eat only [invertebrate];Linnut, jotka syövät vain [ötökkä]
+Forester;Birds that can only live in [forest];Linnut, jotka voivat elää vain [metsässä]
+Historian;Birds named after a person;Linnut nimetty henkilön mukaan
+Large Bird Specialist;Birds with wingspans over 65 cm;Linnut, joiden siipien kärkiväli on yli 65 cm
+Nest Box Builder;Birds with [cavity] nests;Linnut, joilla on [kolo] pesiä
+Omnivore Specialist;Birds that eat [wild];Linnut, jotka syövät [valinnainen]
+Oologist;Birds that have at least 1 egg laid on them;Linnut, joilla on vähintään yksi muna
+Passerine Specialist;Birds with wingspans 30 cm or less;Linnut, joiden siipien kärkiväli on 30 cm tai vähemmän
+Photographer;Birds with colors in their names;Lintuja, joiden nimissä on värejä
+Platform Builder;Birds with [platform] nests;Linnut, joilla on [risu] pesiä
+Prairie Manager;Birds that can only live in [grassland];Linnut, jotka voivat elää vain [pellolla]
+Rodentologist;Birds that eat [rodent];Linnut, jotka syövät [jyrsijä]
+Visionary Leader;Bird cards in hand at end of game;Lintukortit kädessä pelin lopussa
+Viticulturalist;Birds that eat [fruit];Linnut, jotka syövät [hedelmiä]
+Wetland Scientist;Birds that can only live in [wetland];Linnut, jotka voivat elää vain [kosteikolla]
+Wildlife Gardener;Birds with [bowl] nests;Linnut, joilla on [kulho] pesiä
+[automa] Autwitcher;Birds that are worth 3 or 4 points;Linnut, jotka ovat 3 tai 4 pisteen arvoisia.
+[automa] RASPB Life Fellow;Birds that are worth 5, 6, or 7 points;Linnut, jotka saavat 5, 6 tai 7 pistettä
+Behaviorist;For each column that contains birds with 3 different power colors:;Jokaiselle sarakkeelle, joka sisältää lintuja kolmella eri voimavärillä.
+Bird Bander;Birds that can live in multiple habitats;Linnut, jotka voivat elää useissa elinympäristöissä
+Citizen Scientist;Birds with tucked cards;Linnut piilossa olevilla korteilla
+Diet Specialist;Birds with a food cost of 3 food;Linnut, joiden ruokahinta on 3 ruokaa
+Ethologist;In any one habitat
+Forest Data Analyst;Consecutive birds in [forest] with ascending or descending wingspans;Peräkkäiset linnut [metsässä] nousevilla tai laskevilla siipien kärkivälillä
+Grassland Data Analyst;Consecutive birds in [grassland] with ascending or descending wingspans;Peräkkäiset linnut [pellolla] nousevilla tai laskevilla siipien kärkivälillä
+Mechanical Engineer;Sets of the 4 nest types / 1 set = [bowl] [cavity] [ground] [platform];Neljän pesätyypin sarjat / 1 sarja = [kulho] [kolo] [maa] [risu]
+Site Selection Expert;Columns with a matching pair or trio of nests;Sarakkeet, joissa on yhteensopiva pesäpari tai -kolmio
+Wetland Data Analyst;Consecutive birds in [wetland] with ascending or descending wingspans;Peräkkäiset linnut [kosteikolla] nousevalla tai laskevalla siipien kärkivälillä
