@@ -17,7 +17,7 @@ def on_birdbox(click):
 def on_bonusbox(click):
     bonus = click.widget.get()
     bonus_index = bonus_name.index(bonus)
-    description = finnish[bonus_index]
+    description = bonus_finnish[bonus_index]
     card_frame.itemconfig(lang_text, text = bonus)
     card_frame.itemconfig(word_text, text = description)
 

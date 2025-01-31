@@ -25,13 +25,11 @@ Visionary Leader;Bird cards in hand at end of game;Lintukortit kädessä pelin lop
 Viticulturalist;Birds that eat [fruit];Linnut, jotka syövät [hedelmiä]
 Wetland Scientist;Birds that can only live in [wetland];Linnut, jotka voivat elää vain [kosteikolla]
 Wildlife Gardener;Birds with [bowl] nests;Linnut, joilla on [kulho] pesiä
-[automa] Autwitcher;Birds that are worth 3 or 4 points;Linnut, jotka ovat 3 tai 4 pisteen arvoisia.
-[automa] RASPB Life Fellow;Birds that are worth 5, 6, or 7 points;Linnut, jotka saavat 5, 6 tai 7 pistettä
 Behaviorist;For each column that contains birds with 3 different power colors:;Jokaiselle sarakkeelle, joka sisältää lintuja kolmella eri voimavärillä.
 Bird Bander;Birds that can live in multiple habitats;Linnut, jotka voivat elää useissa elinympäristöissä
 Citizen Scientist;Birds with tucked cards;Linnut piilossa olevilla korteilla
 Diet Specialist;Birds with a food cost of 3 food;Linnut, joiden ruokahinta on 3 ruokaa
-Ethologist;In any one habitat
+Ethologist;In any one habitat;Millä tahansa elinalueella lintu, jonka nimessä on väri
 Forest Data Analyst;Consecutive birds in [forest] with ascending or descending wingspans;Peräkkäiset linnut [metsässä] nousevilla tai laskevilla siipien kärkivälillä
 Grassland Data Analyst;Consecutive birds in [grassland] with ascending or descending wingspans;Peräkkäiset linnut [pellolla] nousevilla tai laskevilla siipien kärkivälillä
 Mechanical Engineer;Sets of the 4 nest types / 1 set = [bowl] [cavity] [ground] [platform];Neljän pesätyypin sarjat / 1 sarja = [kulho] [kolo] [maa] [risu]
